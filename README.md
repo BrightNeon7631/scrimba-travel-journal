@@ -24,9 +24,7 @@ I started and finished this project in May 2023.
 
 ## Links
 
-[Live Demo](https://brightneon7631.github.io/scrimba-travel-journal/)
-
-[My Other Projects](https://brightneon7631.github.io/odin-scrimba-projects/)
+[Live Demo](https://bn7631-scrimba-travel-journal.pages.dev)
 
 ## Screenshots
 
@@ -49,7 +47,7 @@ I started and finished this project in May 2023.
 
 ```bash
 # clone repo
-git clone
+git clone https://github.com/BrightNeon7631/scrimba-travel-journal.git
 
 # install project dependencies
 npm install
