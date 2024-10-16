@@ -1,7 +1,11 @@
+import japan from './assets/images/japan.jpeg';
+import australia from './assets/images/australia.jpeg';
+import norway from './assets/images/norway.jpeg';
+
 export default [
     {
         id: 1,
-        img: "japan.jpeg",
+        img: japan,
         location: "JAPAN",
         title: "Mount Fuji",
         date: "12 Jan, 2021 - 24 Jan, 2021",
@@ -9,7 +13,7 @@ export default [
     },
     {
         id: 2,
-        img: "australia.jpeg",
+        img: australia,
         location: "AUSTRALIA",
         title: "Sydney Opera House",
         date: "27 May, 2021 - 8 June, 2021",
@@ -17,7 +21,7 @@ export default [
     },
     {
         id: 3,
-        img: "norway.jpeg",
+        img: norway,
         location: "NORWAY",
         title: "Geirangerfjord",
         date: "1 Oct, 2021 - 18 Nov, 2021",

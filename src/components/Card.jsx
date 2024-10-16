@@ -3,7 +3,7 @@ import locationLogo from '../assets/images/icon-location.svg';
 export default function Card(props) {
     return (
         <div className="card">
-            <img className="card--image" src={`src/assets/images/${props.item.img}`}/>
+            <img className="card--image" src={props.item.img}/>
             <div className="card--info">
                 <div className="card--info--location">
                     <img src={locationLogo} />
